@@ -1,0 +1,44 @@
+{
+  "tables": [
+    {
+      "id": 1,
+      "name": "Learn to use typicode",
+      "link": "https://github.com/typicode/json-server",
+      "source": "github",
+      "category": "other",
+      "status": "done"
+    },
+    {
+      "id": 2,
+      "name": "Intro to Redux Toolkit",
+      "link": "https://react-tutorial.app/app.html?id=2070",
+      "source": "react-tutorial",
+      "category": "React redux",
+      "status": "done"
+    },
+    {
+      "id": 3,
+      "name": "Tailwind CSS",
+      "link": "https://tailwindcss.com/docs/",
+      "source": "tailwindcss.com",
+      "category": "Tailwind",
+      "status": "doing"
+    },
+    {
+      "id": 4,
+      "name": "Intro to class components",
+      "link": "https://react-tutorial.app/app.html?id=1418",
+      "source": "react-tutorial",
+      "category": "Classes",
+      "status": "backlog"
+    },
+    {
+      "id": 5,
+      "name": "TypeScript",
+      "link": "https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript/",
+      "source": "microsoft learn",
+      "category": "TypeScript",
+      "status": "to do"
+    }
+  ]
+}
